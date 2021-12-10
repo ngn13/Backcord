@@ -11,9 +11,10 @@ Um... and i think thats it not much to explain. Im not good at explaining things
 
 And im not responsible for any harm or something (whatever you got what i mean).
 
-## Version
-1.0
-
 Hope you enjoy! 
 
 -ngn
+
+
+## Version
+1.0
