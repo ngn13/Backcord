@@ -1,5 +1,5 @@
 ### Command-Line Arguments
-python3 backcord.py [color option] [bot status]
+`python3 backcord.py [color option] [bot status]`
 
 `color option` -> NO-COLOR or COLOR. Default COLOR.
 
