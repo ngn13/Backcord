@@ -1,7 +1,7 @@
 ### Command-Line Arguments
 python3 backcord.py [color option] [bot status]
 
-color option -> NO-COLOR or COLOR. Default COLOR.
+`color option` -> NO-COLOR or COLOR. Default COLOR.
 
 bot status -> ONLINE, INVISIBLE, IDLE, DND (Do not disturb). Default ONLINE
 
