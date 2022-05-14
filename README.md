@@ -9,7 +9,9 @@ I explained all commands in commands.md, i also explained how to add cogs in cog
 
 Um... and i think thats it not much to explain. Im not good at explaining things lol (and also im not good at markdown).
 
-And im not responsible for any harm or something (whatever you got what i mean).
+Also you may be wondering why its only a one file? Well bc im too lazy for classes, imports and stuff!
+
+And im not responsible for any damage or something (whatever you got what i mean).
 
 Hope you enjoy! 
 
